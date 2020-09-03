@@ -1,0 +1,90 @@
+body{
+  background-image: url("../img/boceto fondo negro.png");
+  background-attachment: fixed;
+  background-position: 50% 10%;
+  height:30rem;
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: 45%;
+  background-color: black;
+}
+.fondocolorsection{
+  background-color: rgba(0,0,0,0.98);
+}
+.subtitulo{
+  text-align: center;
+font-size: 5rem;
+height: 4rem;
+margin-top: 1%;
+margin-bottom: 18%;
+}
+h6{
+  color:##bdbdbd;
+
+}
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans&display=swap');
+p{
+  text-align: center;
+  font-size: 1.2rem;
+  margin-top: 0.5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  color: white;
+}
+.transparencia{
+
+background-color: rgba(0,0,0,0.98);
+
+}
+.colorfondo{
+  background-color: #d0cccc;
+}
+.redondearbordes{
+  border-radius: 0.1%;
+
+}
+.transparentar{
+  opacity: 0.5;
+}
+.logo{
+  margin-top: 5%;
+}
+.separadortransparente{
+  background-color: rgba(0,0,0,0.98);
+  height: 3rem;
+}
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 20px;
+    border-top: 1px solid rgba(255,255,255, 0.1);
+    background:radial-gradient(white, yellow, rgb(30, 144, 255));
+}
+.lineahr{
+  border-top: 1px solid #9e9e9e;
+  background:radial-gradient(white, yellow, rgb(30, 144, 255));
+}
+.lineasubtitulotarjeta{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 0;
+  margin-right: 40%;
+  border: 20px;
+  border-top: 1px solid rgba(255,255,255, 0.1);
+  background:radial-gradient(white, yellow, rgb(30, 144, 255));
+}
+.portada{
+  background-image: url("../img/boceto fondo negro.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: black;
+  text-align: center;
+  height: 37rem;
+  margin-top: 4rem;
+
+}
+.posbotones{
+  align-items: flex-end;
+}
